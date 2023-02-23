@@ -1,4 +1,6 @@
-
+a[href *= ".html"] {
+    color:#3A98B9;
+}
 .body{
     background-color: #E8D5C4;
 }
